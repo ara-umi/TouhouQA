@@ -40,3 +40,10 @@ eg.
 ]
 ```
 
+## boot
+
+```bash
+# cd TouhouQA root
+python3 main.py
+```
+
